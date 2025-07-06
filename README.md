@@ -1,4 +1,4 @@
-# 🧙‍♂️ GPT-2 Story Generator
+# GPT-2 Story Generator
 
 Generate magical, coherent stories using the GPT-2 Medium language model with fine control over temperature, top-k, top-p, and repetition settings.
 
@@ -16,7 +16,7 @@ Generate magical, coherent stories using the GPT-2 Medium language model with fi
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Model**: [`gpt2-medium`](https://huggingface.co/gpt2-medium)
 - **Frontend**: Streamlit
