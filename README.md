@@ -32,3 +32,10 @@ git clone https://github.com/satyamkurum/gpt2-textgen/
 cd gpt2-textgen
 pip install -r requirements.txt
 streamlit run app.py
+```
+## About Me
+  Satyam Kurum
+- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
+- Passionate about GenAI, NLP, and creative machine learning apps
+
+- You are free to use, modify, and distribute it with attribution.
